@@ -6,8 +6,8 @@
 
 ### What I'm working on 👨‍💻
 
-📚 Currently writing a book - [14 Habits of Highly Productive Developers](https://14habits.com/) <br>
-🧛‍♂️ Currently building the best dark theme possible - [Dracula PRO](https://draculatheme.com/pro)
+🧛‍♂️ Currently building a dark theme - [Dracula PRO](https://draculatheme.com/pro) <br>
+📚 Currently writing a book - [14 Habits of Highly Productive Developers](https://14habits.com)
 
 ### Find me elsewhere 🌎
 
