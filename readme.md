@@ -1,6 +1,6 @@
 ### Hey, I'm Zeno! 👋
 
-🤓 CPO at [@LiferayCloud](https://github.com/LiferayCloud/) <br>
+🤓 VP of Developer Experience at [@WorkOS](https://github.com/workos-inc/) <br>
 🇧🇷 Born in Curitiba, Brazil <br>
 🇺🇸 Living in LA, California
 
