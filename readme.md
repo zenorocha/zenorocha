@@ -1,8 +1,8 @@
 ### Hey, I'm Zeno! 👋
 
-🤓 VP of Developer Experience at [@WorkOS](https://github.com/workos-inc/) <br>
+🤓 Founder & CEO at [Resend](https://resend.com) <br>
 🇧🇷 Born in Curitiba, Brazil <br>
-🇺🇸 Living in LA, California
+🇺🇸 Living in San Francisco, California
 
 ### What I'm working on 👨‍💻
 
